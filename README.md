@@ -1,5 +1,16 @@
 # muhammadsaleem88
 
+LICENSE.             Initial commit.        2 years ago.   
+ 
+README.md.           Update README.md.      13 days ago
+
+requirements.txt.   Update requirements.txt 2 years ago
+  
+setup.sh.           Update setup.sh         8 months ago        
+
+
+
+
 # ubuntu setting & Pc ready
 
 sudo apt-get update
@@ -47,6 +58,10 @@ Section "Screen"
     DefaultDepth 24
     SubSection "Display"
     Depth 24
+    Modes "1024x800"
+    EndSubSection
+EndSection
+
     Modes "1024x800"
     EndSubSection
 EndSection
